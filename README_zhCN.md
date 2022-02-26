@@ -1,4 +1,4 @@
-[English](./README.md) | 简体中文
+# [English](./README.md) | 简体中文
 
 <p align="center">
 <img src="https://raw.githubusercontent.com/KFCFans/PowerJob/master/others/images/logo.png" alt="PowerJob" title="PowerJob" width="557"/>
@@ -6,7 +6,7 @@
 
 <p align="center">
 <a href="https://github.com/PowerJob/PowerJob/actions"><img src="https://github.com/PowerJob/PowerJob/workflows/Java%20CI%20with%20Maven/badge.svg?branch=master" alt="actions"></a>
-<a href="https://search.maven.org/search?q=com.github.kfcfans"><img alt="Maven Central" src="https://img.shields.io/maven-central/v/com.github.kfcfans/powerjob-worker"></a>
+<a href="https://search.maven.org/search?q=tech.powerjob"><img alt="Maven Central" src="https://img.shields.io/maven-central/v/tech.powerjob/powerjob-worker"></a>
 <a href="https://github.com/PowerJob/PowerJob/releases"><img alt="GitHub release (latest SemVer)" src="https://img.shields.io/github/v/release/kfcfans/powerjob?color=%23E59866"></a>
 <a href="https://github.com/PowerJob/PowerJob/blob/master/LICENSE"><img src="https://img.shields.io/github/license/KFCFans/PowerJob" alt="LICENSE"></a>
 </p>
@@ -34,11 +34,8 @@ PowerJob（原OhMyScheduler）是全新一代分布式调度与计算框架，�
 PowerJob 的设计目标为企业级的分布式任务调度平台，即成为公司内部的**任务调度中间件**。整个公司统一部署调度中心 powerjob-server，旗下所有业务线应用只需要依赖 `powerjob-worker` 即可接入调度中心获取任务调度与分布式计算能力。
 
 ### 在线试用
-试用地址：[try.powerjob.tech](http://try.powerjob.tech/)
-试用应用名称：powerjob-agent-test
-控制台密码：123
-
-[建议点击查看试用文档了解相关操作](https://www.yuque.com/powerjob/guidence/hnbskn)
+* 试用地址：[try.powerjob.tech](http://try.powerjob.tech/#/welcome?appName=powerjob-agent-test&password=123)
+* [建议先阅读使用教程了解 PowerJob 的概念和基本用法](https://www.yuque.com/powerjob/guidence/trial)
 
 ### 同类产品对比
 |                | QuartZ                   | xxl-job                                  | SchedulerX 2.0                                    | PowerJob                                                |
@@ -55,11 +52,9 @@ PowerJob 的设计目标为企业级的分布式任务调度平台，即成为�
 
 
 # 官方文档
-**[中文文档](https://www.yuque.com/powerjob/guidence/ztn4i5)**
+**[中文文档](https://www.yuque.com/powerjob/guidence/intro)**
 
-**[Document](https://www.yuque.com/powerjob/en/xrdoqw)**
-
-PS：感谢文档翻译平台[breword](https://www.breword.com/)对本项目英文文档翻译做出的巨大贡献！
+**[Docs](https://www.yuque.com/powerjob/en/introduce)**
 
 # 接入登记
 [点击进行接入登记，为 PowerJob 的发展贡献自己的力量！](https://github.com/PowerJob/PowerJob/issues/6)
@@ -75,4 +70,4 @@ PS：感谢文档翻译平台[breword](https://www.breword.com/)对本项目英�
 * 欢迎共同参与本项目的贡献，PR和Issue都大大滴欢迎（求求了）～
 * 觉得还不错的话，可以点个Star支持一下哦～ =￣ω￣=
 * 联系方式@KFCFans -> `tengjiqi@gmail.com`
-* 用户交流QQ群：487453839
+* 用户交流QQ群（因广告信息泛滥，加群需要验证，请认真填写申请原因）：487453839
